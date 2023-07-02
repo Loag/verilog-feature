@@ -6,7 +6,7 @@ set -e
 source dev-container-features-test-lib
 
 # Definition specific tests
-check "version" iverilog -v
+check "version" iverilog -V
 
 # Report result
 reportResults
