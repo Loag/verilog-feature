@@ -1,0 +1,12 @@
+{
+  "id": "verilog",
+  "version": "0.0.1",
+  "name": "verilog",
+  "documentationURL": "https://github.com/loag/verilog-feature",
+  "description": "Installs verilog with apt",
+  "options": {},
+  "mounts": [],
+  "installsAfter": [
+      "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
